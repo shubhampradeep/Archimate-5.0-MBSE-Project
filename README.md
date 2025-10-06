@@ -18,6 +18,6 @@ In addition, the different layers are based on analysis, review and update of da
 
 - the Infrastructure layer is consistent with ServiceNow information on servers and environments
 
-file:///C:/Users/Shubham/Downloads/HTML%20Report%20MBSE%20Framework/index.html
+
 For a global overview, the INDEX in the model tree VIEW is the entry point to the 3 layers.
 The "OVERALL DEVELOP DOMAIN - Business layer" gives you a global picture of the new DEVELOP business processes.
